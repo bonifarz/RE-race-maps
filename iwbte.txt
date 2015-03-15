@@ -1,0 +1,31 @@
+
+Map by Boognish:
+http://forum.freegamedev.net/viewtopic.php?f=73&t=3224
+
+Minor fixes by Bonifarz as follows:
+
+Changelog 1.2
+
+* Big bad noclip-shortcut in Mike Tyson room fixed.
+* Angle of the last ice barrier again as steep as in version 1.1.
+* Some small geometry / texture flaws fixed.
+
+Changelog 1.1b
+
+* Gameplay is mostly unchanged, but there are more checkpoints
+* Changes in the Mike Tyson room:
+   * six (!) additional checkpoints 
+   * big bad shortcut fixed (romoval of some "sprites")
+   * Lava around "sprites" so people see where to go
+   * Lava dive shortcut fixed
+   * Lavabox geometry cleanup
+   * Some improvements to gunfire particles 
+   * Final "ice barrier" angle changed, >90° seems currently impossible
+* Changes in the Pacman stages 
+   * two more checkpoints
+   * clipping problems fixed 
+   * end teleport moved into the maze
+   * Big pacman geometry errors fixed (broken surface elements)
+* Sky texture with noclip in bottomless pits to avoid flickering annoyance
+* texturecull and calclight, albeit there are no lights at all  =)
+
