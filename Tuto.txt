@@ -1,6 +1,6 @@
 
-Tutorial "proof of concept" by Bonifarz, cc-sa-by-3.0
-(Creative Commons Attribution-ShareAlike 3.0 Unported License) 
+Tuto - movement tutorial by Bonifarz (at gmx.ch)
+cc-sa-by-3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported License) 
 
 The letter geometries were created using "typegen - the damn fast typewriter" by Nyne and the font by restcoser: 
 http://quadropolis.us/node/4065
