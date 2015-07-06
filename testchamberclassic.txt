@@ -1,0 +1,6 @@
+
+Test Chamber Classic 
+
+This just combines the classic texturing of Test Chamber (which we had in Elara edition and earlier versions) with the current map entities (routes, lighting, checkpoints etc. from Aurora edition, where the map textures were remixed).
+
+All official map versions by Quinton Reeves, Red Eclipse license, simple mix-up by Bonifarz.
